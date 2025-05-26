@@ -8,7 +8,7 @@
 |`mdd.bat`       | create folder from clipboard content|
 |`mddd.bat`       | create file from clipboard content|
 |`n.bat`       |  start notepad|
-|p.bat`       |  start paint|
+|`p.bat`       |  start paint|
 |`q.bat`       |  change directory in q.bat|
 |`qq.bat `       | open directory in q.bat|
 |`seta.bat`       | commandline calculator|
